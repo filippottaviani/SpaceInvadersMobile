@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Space Invaders Mobile</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_sample">sample</string>
+
+    <string name="title_activity_sample2">sample2</string>
+</resources>

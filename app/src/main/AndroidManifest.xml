@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="it.unipg.pigdm.spaceinvadersmobile">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icona"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icona"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".Home"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_home"
+            android:theme="@style/FullscreenTheme" />
+    </application>
+
+</manifest>
